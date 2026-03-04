@@ -8,7 +8,7 @@ A Toolkit for Modeling and Simulation of Resource Management Techniques in Inter
 ## Authors & Maintainers
 
 * **Zhai Slim**
-* **Xie Zhaoxian**
+* **Chao-Hsien Hsieh**
 
 ## Attention: iFogSim2 New Release 
 The latest version of iFogSim (iFogSim2) is now available at:  
